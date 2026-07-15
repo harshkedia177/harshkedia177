@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=00FF94&center=true&vCenter=true&width=720&height=40&lines=systems+from+infra+to+interface;building+the+memory+layer+for+AI+agents;700%2B+stars+shipped+in+open+source;founding+engineer%2C+twice;the+hard+part+in+the+middle)](https://harshkedia.com)
 
-<a href="https://harshkedia.com"><img src="https://img.shields.io/badge/harshkedia.com-00ff94?style=for-the-badge&logo=googlechrome&logoColor=0a0a0a&labelColor=0a0a0a" alt="Website" /></a>
+<a href="https://harshkedia.com"><img src="https://img.shields.io/badge/harshkedia.com-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=00ff94" alt="Website" /></a>
 <a href="https://linkedin.com/in/harshkedia17"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://x.com/harshkedia717"><img src="https://img.shields.io/badge/X-0a0a0a?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="mailto:harshkedia717@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
