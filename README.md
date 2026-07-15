@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Harsh Kedia — fast, quiet software for loud problems · harshkedia.com](./banner.webp)](https://harshkedia.com)
+[![Harsh Kedia · fast, quiet software for loud problems · harshkedia.com](./banner.webp)](https://harshkedia.com)
 
 [![Website](https://img.shields.io/badge/harshkedia.com-00ff94?style=flat-square&logo=googlechrome&logoColor=0a0a0a&labelColor=0a0a0a)](https://harshkedia.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=00ff94)](https://linkedin.com/in/harshkedia17)
