@@ -74,6 +74,15 @@
 | **[Imagine](https://github.com/harshkedia177/image-gen-plugin)** | An image-generation skill for coding agents (Claude Code, Codex, Gemini CLI, Copilot) that create assets on the fly. |
 | **[TokenViz](https://github.com/harshkedia177/tokenviz)** | GitHub-style contribution heatmaps for AI coding-tool usage. One command, no login, no tracking. `npx tokenviz` |
 
+## 🤖 Agent builds
+
+Production-shaped AI-agent systems, built end to end (data layer to model orchestration to UI).
+
+| Project | What it is |
+| --- | --- |
+| **[D2C AI Employee](https://github.com/harshkedia177/d2c-ai-employee)** | An AI employee for Indian D2C brands that answers "net of RTO and ad spend, am I making money on this campaign / SKU / pincode?" with cited numbers, then proposes rupee-saving actions on its own. Plan → Execute → Join → Compose chat pipeline (p95 ~5s), an architecturally-enforced citation contract, propose-only agents, and a per-tenant scale harness. 246 tests. |
+| **[Supermarket Ops Agent](https://github.com/harshkedia177/Supermarket-Ops-Agent)** | Run an Indian kirana store from a Telegram chat: receive stock, cut GST-correct bills, run khata (credit), close the day, and pull invoice PDFs + analysis decks, all in plain Hindi/Hinglish/English. Built on the Claude Agent SDK, 30 tools over a transactional SQLite store with SQL-enforced oversell and idempotency guards. |
+
 ## 💼 Where I've shipped
 
 - **Shoppin** · *Senior Product Engineer* : owned the systems behind an AI fashion product as it grew from discovery and try-on into full commerce and custom manufacturing. An agent-based pattern-making engine (garment to production-ready ASTM sewing pattern in minutes), an AI-native custom-clothing platform, the recommendation feed, the entire payments stack, and virtual try-on for 20K+ daily users.
