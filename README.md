@@ -13,24 +13,33 @@
 
 </div>
 
-```console
-$ cat about.txt
-Would-be astrophysicist who kept taking machines apart: modding games,
-rooting phones, flashing custom ROMs, until a web page turned out to be
-something you could just make. Started with HTML, got hooked on Python,
-never looked back. Systems from infra to interface, with a bias toward
-the hard part in the middle.
+> **Would-be astrophysicist** who kept taking machines apart (modding games, rooting phones, flashing custom ROMs), until a web page turned out to be something you could just *make*. Started with HTML, got hooked on Python, never looked back. I build systems from infra to interface, with a bias toward **the hard part in the middle**.
 
-$ harsh --best-at
-  debugging     the why and the where when nothing else will
-  greenfield    an empty repo to the best version of itself
+- 🧠 &nbsp; **Sharpest at** debugging (the *why* and the *where* when nothing else will) and taking an empty repo to the best version of itself
+- 🛰️ &nbsp; **Building** [`Tessera`](https://github.com/harshkedia177/tessera-python), the memory layer for AI agents
+- 🔭 &nbsp; **Learning** how GPU inference actually works, layer by layer
+- 🚀 &nbsp; **Founding engineer, twice**, and open to roles where I own hard systems end to end
 
-$ harsh --status
-  building      Tessera, the memory layer for AI agents
-  learning      how GPU inference actually works, layer by layer
-  history       founding engineer, twice
-  open to       roles where I own hard systems end to end
-```
+## 🤖 AI / LLM Engineering
+
+> [!TIP]
+> **This is where I'm sharpest.** RAG and hybrid retrieval · agent memory · agent harnesses · evals · guardrails (OWASP-LLM) · LLM tracing · model & tool routing · MCP servers · multi-agent orchestration.
+> <br/>Built with **LangChain / LangGraph / LlamaIndex**, **PyTorch**, and **Hugging Face**, over the **OpenAI / Anthropic / Gemini** APIs.
+
+<div align="center">
+
+![AI/LLM](https://img.shields.io/badge/RAG-30363D?style=flat-square)
+![Agents](https://img.shields.io/badge/Agents-30363D?style=flat-square)
+![Agent memory](https://img.shields.io/badge/Agent_Memory-30363D?style=flat-square)
+![Evals](https://img.shields.io/badge/Evals-30363D?style=flat-square)
+![Guardrails](https://img.shields.io/badge/Guardrails-30363D?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP_Servers-30363D?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+</div>
 
 ## 🧰 Tech Stack
 
@@ -39,8 +48,6 @@ $ harsh --status
 ![Stack](https://skillicons.dev/icons?i=py,ts,js,go,react,nextjs,nodejs,fastapi,django,graphql,postgres,redis,mongodb,elasticsearch,kafka,pytorch,tensorflow,docker,kubernetes,aws,azure,gcp,cloudflare,linux,git,githubactions,grafana,prometheus&perline=14)
 
 </div>
-
-**AI / LLM:** RAG · agent memory · agent harnesses · evals · guardrails (OWASP-LLM) · LLM tracing · model & tool routing · MCP servers · LangGraph · PyTorch
 
 ## 📊 GitHub
 
