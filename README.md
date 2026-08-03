@@ -55,7 +55,6 @@
 
 <img src="https://streak-stats.demolab.com?user=harshkedia177&theme=highcontrast&hide_border=true&background=0D1117&ring=00FF94&fire=00FF94&currStreakLabel=00FF94&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" alt="streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshkedia177&bg_color=0d1117&color=00ff94&line=00ff94&point=ffffff&area=true&hide_border=true" alt="activity graph" width="100%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshkedia177/harshkedia177/output/github-snake-dark.svg" />
